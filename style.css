@@ -51,6 +51,7 @@ section{
 }
 .sticky-note{
     height: 250px;
+    width: 250px;
 }
 textarea{
     width: 100%;
