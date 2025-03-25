@@ -87,8 +87,8 @@ textarea:focus{
     background-color: #1d3557;
 }
 
-@media screen and (max-width:560px) {
+@media screen and (max-width:700px) {
     textarea{
-        font-size: 25px;
+        font-size: 30px;
     }
 }
